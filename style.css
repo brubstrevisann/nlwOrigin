@@ -514,6 +514,10 @@ footer .social a:hover {
   .section{
     padding: 10rem 0;
   }
+  
+  .button{
+    height: 3.125rem;
+  }
 
   nav .menu{
     opacity: 1;
@@ -546,6 +550,11 @@ footer .social a:hover {
     order:0;
     max-width: 24rem;
     text-align: left;
+  }
+
+  #about .container{
+    margin: 0 auto;
+    grid-auto-flow: column;
   }
 
   main {
