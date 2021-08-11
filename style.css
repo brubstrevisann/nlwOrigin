@@ -556,7 +556,7 @@ footer .social a:hover {
     margin: 0 auto;
     grid-auto-flow: column;
   }
-
+ 
   main {
     margin-top: calc(--header-height);
   }
